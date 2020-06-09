@@ -9,6 +9,6 @@ group :development do
 gem "pry"
 end
 
-
+gem "rspec", :groups => [:development, :test]
 
 
